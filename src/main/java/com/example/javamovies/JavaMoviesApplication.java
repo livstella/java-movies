@@ -1,5 +1,7 @@
 package com.example.javamovies;
 
+import com.example.javamovies.models.Character;
+import com.example.javamovies.repositories.CharacterRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

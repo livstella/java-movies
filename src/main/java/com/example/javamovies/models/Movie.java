@@ -1,4 +1,4 @@
-package com.example.javamovies;
+package com.example.javamovies.models;
 
 
 import javax.persistence.Entity;
